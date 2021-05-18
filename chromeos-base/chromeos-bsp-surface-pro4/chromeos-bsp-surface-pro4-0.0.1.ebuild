@@ -13,7 +13,6 @@ IUSE=""
 
 RDEPEND="
     chromeos-base/chromeos-accelerometer-init
-    chromeos-base/surface-power-management-policy
     chromeos-base/detachable-emulator
 "
 
