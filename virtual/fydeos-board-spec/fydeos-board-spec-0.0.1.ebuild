@@ -13,7 +13,7 @@ IUSE=""
 
 RDEPEND="
   chromeos-base/device-appid
-  chromeos-base/chromeos-bsp-surface-pro4
+  chromeos-base/chromeos-bsp-surface-pro5
   chromeos-base/auto-expand-partition
   virtual/fydemina
   chromeos-base/flash_player
